@@ -1,5 +1,3 @@
-![JS Image](https://jslib.dev/wp-content/uploads/2021/05/js2.png)
-
 # Panacloud-Practice-Questions-JS 
 
 
