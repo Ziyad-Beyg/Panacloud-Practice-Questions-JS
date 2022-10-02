@@ -1,4 +1,4 @@
-# Panacloud-Practice-Questions-JS 
+# Getting Started Exercises with JavaScript and Node.js
 
 
 ## 1) Personal Message:
