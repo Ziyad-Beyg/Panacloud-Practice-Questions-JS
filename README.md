@@ -24,9 +24,9 @@ Store a person’s name, and include some whitespace characters at the beginning
 
 ## 6) Number Eight:
 Write addition, subtraction, multiplication, and division operations that each result in the number 8. Be sure to enclose your operations in print statements to see the results.
-You should create four lines that look like this:
-console.log(5 + 3)
-Your output should simply be four lines with the number 8 appearing once on each line.
+- You should create four lines that look like this:
+> console.log(5 + 3)
+- Your output should simply be four lines with the number 8 appearing once on each line.
 
 
 ## 7) Favorite Number:
@@ -55,9 +55,9 @@ If you could invite anyone, living or deceased, to dinner, who would you invite?
 
 ## 13) Changing Guest List: 
 You just heard that one of your guests can’t make the dinner, so you need to send out a new set of invitations. You’ll have to think of someone else to invite.
-• Start with your program from Exercise 14. Add a print statement at the end of your program stating the name of the guest who can’t make it.
-• Modify your list, replacing the name of the guest who can’t make it with the name of the new person you are inviting.
-• Print a second set of invitation messages, one for each person who is still in your list.
+- Start with your program from Exercise 14. Add a print statement at the end of your program stating the name of the guest who can’t make it.
+- Modify your list, replacing the name of the guest who can’t make it with the name of the new person you are inviting.
+- Print a second set of invitation messages, one for each person who is still in your list.
 
 
 ## 14) More Guests:
