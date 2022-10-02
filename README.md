@@ -1,4 +1,4 @@
-# Panacloud-Practice-Questions-JS
+# Panacloud-Practice-Questions-JS ![JS Image]{https://jslib.dev/wp-content/uploads/2021/05/js2.png}
 
 
 ## 1) Personal Message:
